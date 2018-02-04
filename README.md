@@ -1,4 +1,7 @@
-# Ruby on Rails Tutorial sample application
+# First github commit
+
+
+  - This app helped me to learn the importance of a user login-logout system. The Ruby on Rails Tutorial by Michael Heartl. It was my window into understanding the power of web development, Github, the importance of version control, branching when working with collaborators, application structure (Angular and Model), MVC modeling, RESTful practices, gems, and the entirety of the Ruby universe.
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
@@ -8,28 +11,12 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
-
 ```
 $ bundle install --without production
-```
-
-Next, migrate the database:
-
-```
 $ rails db:migrate
-```
-
-Finally, run the test suite to verify that everything is working correctly:
-
-```
 $ rails test
-```
-
-If the test suite passes, you'll be ready to run the app in a local server:
-
-```
 $ rails server
 ```
 
 For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).   
